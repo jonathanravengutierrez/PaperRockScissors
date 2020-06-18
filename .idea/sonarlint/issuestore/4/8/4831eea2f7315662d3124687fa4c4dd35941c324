@@ -1,7 +1,7 @@
 
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(†Ì‚¸úÿÿÿÿ8…ö·‚¬.
 Z	java:S106&"9Replace this use of System.out or System.err by a logger.(‘±…ðþÿÿÿÿ8…ö·‚¬.
-T	java:S106)"9Replace this use of System.out or System.err by a logger.(àä±@8…ö·‚¬.
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(âŒ¼¬8…ö·‚¬.
 p
 java:S1192$"NDefine a constant instead of duplicating this literal " of 100 games" 3 times.(†Ì‚¸úÿÿÿÿ8…ö·‚¬.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(âŒ¼¬8…ö·‚¬.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(†Ì‚¸úÿÿÿÿ8…ö·‚¬.
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(àä±@8…ö·‚¬.
